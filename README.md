@@ -1,4 +1,4 @@
-# Project 2
+# Project 1
 # Ames Housing Dataset and Multivariate Regression
 
 ## Contents
